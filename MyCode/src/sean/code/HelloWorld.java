@@ -1,4 +1,4 @@
-package shihongyang.code;
+package sean.code;
 
 public class HelloWorld {
 
