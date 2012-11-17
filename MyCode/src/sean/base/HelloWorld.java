@@ -1,4 +1,4 @@
-package sean.code;
+package sean.base;
 
 public class HelloWorld {
 
