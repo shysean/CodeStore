@@ -1,0 +1,17 @@
+﻿{
+"name": "恢复按钮",
+"version": "1.0",
+"description": "Just for Su.",
+"background": {
+  "scripts": ["background.js"]
+},
+"browser_action": {
+"default_icon": "icon.png",
+"default_title":"恢复刚刚关闭的网页"
+
+},
+"permissions": [
+"tabs","http://*/*", "https://*/*"
+],
+  "manifest_version": 2
+}
